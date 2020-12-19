@@ -10,3 +10,6 @@ pub mod env;
 
 /// This submodule offers some convenience functionality to simplify training agents.
 pub mod training;
+
+/// Spaces temporal implemetations.
+pub mod sp;
